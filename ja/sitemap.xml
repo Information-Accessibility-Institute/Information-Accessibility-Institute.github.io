@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://info-a11y.jp/en/about/</loc>
-  </url><url>
     <loc>https://info-a11y.jp/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -15,12 +13,6 @@
                 hreflang="ja"
                 href="https://info-a11y.jp/categories/"
                 />
-  </url><url>
-    <loc>https://info-a11y.jp/en/contact/</loc>
-  </url><url>
-    <loc>https://info-a11y.jp/en/</loc>
-  </url><url>
-    <loc>https://info-a11y.jp/en/profile/</loc>
   </url><url>
     <loc>https://info-a11y.jp/tags/</loc>
     <xhtml:link
@@ -81,5 +73,7 @@
                 hreflang="ja"
                 href="https://info-a11y.jp/profile/"
                 />
+  </url><url>
+    <loc>https://info-a11y.jp/papers/</loc>
   </url>
 </urlset>
