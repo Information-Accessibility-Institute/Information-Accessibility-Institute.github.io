@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://info-a11y.jp/mexcbt-rfi-2026/</loc>
+    <lastmod>2026-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://info-a11y.jp/</loc>
+    <lastmod>2026-09-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://info-a11y.jp/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://info-a11y.jp/"
+                />
+  </url><url>
+    <loc>https://info-a11y.jp/mexcbt-rfi-2026/accessibility/</loc>
+  </url><url>
+    <loc>https://info-a11y.jp/mexcbt-rfi-2026/interactions/</loc>
+  </url><url>
+    <loc>https://info-a11y.jp/mexcbt-rfi-2026/interoperability/</loc>
+  </url><url>
+    <loc>https://info-a11y.jp/mexcbt-rfi-2026/performance/</loc>
+  </url><url>
     <loc>https://info-a11y.jp/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,18 +60,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://info-a11y.jp/contact/"
-                />
-  </url><url>
-    <loc>https://info-a11y.jp/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://info-a11y.jp/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://info-a11y.jp/"
                 />
   </url><url>
     <loc>https://info-a11y.jp/about/</loc>
