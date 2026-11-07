@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "print.css",
-	"sourceRoot": "C:/Users/eb2m-/OneDrive/創業/info-a11y-site-bilingual",
+	"sourceRoot": "c:/Users/eb2m-/OneDrive/創業/info-a11y-site-bilingual",
 	"sources": [
 		"themes/zen/assets/sass/print.scss",
 		"themes/zen/assets/sass/_init.scss",
